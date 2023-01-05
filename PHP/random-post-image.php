@@ -44,3 +44,5 @@ function rand_posts_image()
     }
     return $string;
 }
+
+add_shortcode('random-post-image', 'random_post_image');
