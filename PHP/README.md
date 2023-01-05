@@ -8,3 +8,6 @@ This secton contains PHP code snippets as well as useful functions, classes, etc
 # Useful functions
 - json_encode - https://www.php.net/manual/en/function.json-encode.php
 Print anything in json format
+
+# Useful links
+- Parametrized shortcodes in WordPress - https://developer.wordpress.org/plugins/shortcodes/shortcodes-with-parameters/
